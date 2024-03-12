@@ -86,6 +86,6 @@
 </template>
 <style lang="scss" scoped>
 .hero.is-info {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://unsplash.it/1200/900?random) no-repeat center center fixed;
+    background: transparent;
 }
 </style>
